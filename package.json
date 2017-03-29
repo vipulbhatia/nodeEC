@@ -1,0 +1,24 @@
+{
+  "name": "node-ec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vipulbhatia/nodeEC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vipulbhatia/nodeEC/issues"
+  },
+  "homepage": "https://github.com/vipulbhatia/nodeEC#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "redis": "^2.7.1",
+    "stomp": "^0.1.1"
+  }
+}
